@@ -1,0 +1,4 @@
+Moved 1.docx -> Documents/
+Moved 2.docx -> Documents/
+Moved 23IT023_Certificate (1).pdf -> Documents/
+Moved WIN_20250213_15_10_46_Pro.jpg -> Images/
